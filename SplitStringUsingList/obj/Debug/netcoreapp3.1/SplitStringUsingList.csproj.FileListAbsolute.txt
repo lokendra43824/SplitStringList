@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\bin\Debug\netcoreapp3.1\SplitStringUsingList.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\SplitStringUsingList\SplitStringUsingList\obj\Debug\netcoreapp3.1\SplitStringUsingList.genruntimeconfig.cache
